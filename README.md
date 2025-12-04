@@ -29,7 +29,7 @@ BurykhinYaD23@spb.ithub.ru
 
    ```
    git clone https://github.com/username/repo-name.git
-   ```
+   ```markdown
 
    Замените `https://github.com/username/repo-name.git` на актуальную ссылку на репозиторий.
 
@@ -44,19 +44,19 @@ BurykhinYaD23@spb.ithub.ru
 
    ```
    git add .
-   ```
+   ```markdown
 
 3. Создайте коммит с сообщением:
 
    ```
    git commit -m "Описание изменений"
-   ```
+   ```markdown
 
 4. Загрузите коммит на удаленный репозиторий:
 
    ```
    git push origin main
-   ```
+   ```markdown
 
    (Здесь `main` — имя ветки; замените на вашу, если отличается.)
 
